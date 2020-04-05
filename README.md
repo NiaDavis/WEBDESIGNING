@@ -1,2 +1,2 @@
-# WEBDESIGNING
-Web Designing Class
+# WEB DESIGNING
+For CIS102W
